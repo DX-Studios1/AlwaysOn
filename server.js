@@ -47,3 +47,7 @@ http.get('${process.env.bot10}'`);
 setInterval(() => {
 http.get('${process.env.bot11}'`);
 }, 10);
+
+setInterval(() => {
+http.get('${process.env.bot12}'`);
+}, 10);
